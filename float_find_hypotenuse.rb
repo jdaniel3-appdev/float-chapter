@@ -4,4 +4,5 @@
 # 
 # 5.3
 
-
+hypotenuse = (2.8 ** 2 + 4.5 ** 2) ** (1.0/2)
+p hypotenuse
